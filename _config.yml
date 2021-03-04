@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            My Gitfolio
-#tagline:          'Tagline??'
-description:      '<font color=red>Subtitulo</font>'
+title:            Gonzalo Contreras Aso
+#tagline:         My Gitfolio
+description:      'My Gitfolio'
 url:              https://goznalo-git.github.io
 #baseurl:          '/home'
                   # the optional subpath of your site, e.g. "/blog"

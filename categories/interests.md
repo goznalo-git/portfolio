@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interests
+title: Things I am intersted in
 sidebar_link: true
 ---
 

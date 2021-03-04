@@ -16,10 +16,9 @@ url:              https://goznalo-git.github.io
 
 author:
   name:           'Gonzalo Contreras Aso'
-  #url:            https://twitter.com/fongandrewc
   github:         'goznalo-git'
 
-paginate:         5
+paginate:         3
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 

@@ -14,9 +14,13 @@ url:              https://goznalo-git.github.io
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
+production_url : http://goznalo-git.github.io/portfolio
+BASE_PATH : http://goznalo-git.github.io/portfolio  
+
 author:
   name:           'Gonzalo Contreras Aso'
   #url:            https://twitter.com/fongandrewc
+  github:         'goznalo-git'
 
 paginate:         5
 # paginate_path:    '/page:num'

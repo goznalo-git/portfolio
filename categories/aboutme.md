@@ -23,23 +23,36 @@ In case you're wondering, I designed it with _Overleaf_.
 <div id="timeline-content">
 
   <ul class="timeline">
-    <li class="event" data-date="65Million B.C.">
-      <h3>Dinosaurs Roamed the Earth</h3>
-      <p>RAWWWWWWRRR</p>
+    <li class="event" data-date="1995">
+      <h3>A star was born</h3>
+      <h4>Madrid, Spain</h4>
+      <p>There's not much to be added here.</p>  
     </li>
-    <li class="event" data-date="2005">
-      <h3>Creative Component Launched</h3>
-      <p>"We can be all things to all people!"</p>    
+    <li class="event" data-date="1995-2013">
+      <h3>Compulsory education</h3>
+      <h4>C.E.I.P. Nuestra Señora de la Almudena</h4>
+      <p>I had what can be called a normal primary education.</p>
+      <h4>I.E.S. Beatriz Galindo</h4>
+      <p>I went to an english-spanish bilingual school all through secondary education.</p>    
     </li>
-    <li class="event" id="date" data-date="2009">
-      <h3>Squareflair was Born</h3>
-      <p></p> <p>"We can be all things to Squarespace users!"</p>    
-    </li>    
-    <li class="event" data-date="November 15, 2018">
-      <h3>Squareflair Today</h3>      
-      <p>"We design and build from scratch!" </p> <p>When we say <em><strong>100% custom</strong></em> we mean it— and we build all sites on the Squarespace Developer platform.</p>
-      <p>Did you know that all of our pixels are hand-forged from the rarest of subpixels grown and harvested in the <em>Nerd Forest</em>? </p>      
-      <p><strong>Our success can be measured by lives and brands enhanced by 9+ years of 100% Squarespace-focused service!</strong></p>
+    <li class="event" data-date="2013">
+      <h3>Enrolled the B.Sc. in Physics</h3>
+      <h4>Universidad Complutense de Madrid</h4>
+      <p>Amazed by the Universe and space (cosmology, black holes, etc), I attempted to understand it.</p>  
     </li>
+    <li class="event" data-date="2014-Now">
+      <h3>Joined ASAAF</h3>
+      <p>During the second year I joined the astronomical association of the UCM.</p>
+      <p>Besides helping with astronomical events, I was offered the chance to give public presentations:</p>
+      <ul>
+      <li class="subevent"><a>Muerte estelar</a> (<i>Nov 2016</i>)</li>
+      </ul>       
+    </li>
+    <li class="event" data-date="2014">
+      <h3>Graduated from the B.Sc. in Physics</h3>
+      <p>During the second year I joined the astronomical association of the UCM.</p>
+      <p>Besides helping with astronomical events, I was offered the chance to give public presentations.</p> 
+    </li>
+
   </ul>
 </div>

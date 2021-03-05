@@ -203,7 +203,7 @@ body {
     color: $body-color;
     min-height: 100vh;
     padding:
-      $section-spacing * 2
+      $section-spacing / 2   /* Distance to top */ 
       $section-spacing * 2
       0;
 
@@ -230,7 +230,7 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      max-width: 50rem; /* Page width!!! */
       padding: 0;
     }
   }

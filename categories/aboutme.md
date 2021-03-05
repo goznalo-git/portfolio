@@ -37,22 +37,32 @@ In case you're wondering, I designed it with _Overleaf_.
     </li>
     <li class="event" data-date="2013">
       <h3>Enrolled the B.Sc. in Physics</h3>
-      <h4>Universidad Complutense de Madrid</h4>
+      <h4>Universidad Complutense de Madrid (UCM)</h4>
       <p>Amazed by the Universe and space (cosmology, black holes, etc), I attempted to understand it.</p>  
     </li>
     <li class="event" data-date="2014-Now">
       <h3>Joined ASAAF</h3>
       <p>During the second year I joined the astronomical association of the UCM.</p>
-      <p>Besides helping with astronomical events, I was offered the chance to give public presentations:</p>
+      <p>Besides helping with astronomical events, I was offered the chance to give public presentations, taking place during events such as the Madrid Science Week or the Noether Conference cycles:</p>
       <ul>
-      <li class="subevent"><a>Muerte estelar</a> (<i>Nov 2016</i>)</li>
+      <li class="subevent"><a>Muerte estelar</a> (<i>Introduction to Astronomy, Oct 2016</i>)</li>
+      <li class="subevent"><a>Black Holes for Dummies</a> (<i>Madrid Science Week, Nov 2016</i>)</li>
+      <li class="subevent"><a>Los problemas del Milenio</a> (<i>Noether Conferences, Nov 2016</i>)</li>
+      <li class="subevent"><a>Electrodinámica para teóricos</a> (<i>Noether Conferences, Apr 2018</i>)</li>
+      <li class="subevent"><a>El (fallido) intento de unificar Gravedad y Electromagnetismo</a> (<i>Noether Conferences, Dec 2019</i>)</li>
       </ul>       
     </li>
-    <li class="event" data-date="2014">
-      <h3>Graduated from the B.Sc. in Physics</h3>
-      <p>During the second year I joined the astronomical association of the UCM.</p>
-      <p>Besides helping with astronomical events, I was offered the chance to give public presentations.</p> 
+    <li class="event" data-date="Jul 2017">
+      <h3>Graduated from the B.Sc. in Physics (GPA 7.5)</h3>
+      <h4>Universidad Complutense de Madrid (UCM)</h4>
+      <p>Specialization in Fundamental Physics</p>
+      <p>Bachelor's Thesis: <em><strong>Numerical Solutions in Classical Field Theories: Vortices, Solitons and Black Holes</strong></em>, directed by Prof. Francisco Navarro (Grade: 9/10).</p>
+      <p>In case you are interested, you can <a href="/files/CV_GCA_data_eng.pdf" target="_blank"> view or download it here</a>.</p>
     </li>
-
+    <li class="event" data-date="Sep 2017">
+      <h3>Enrolled the M.Sc. in Theoretical Physics</h3>
+      <h4>Universeit van Amsterdam (UvA)</h4>
+      <p>I still had a huge drive to understand the Universe, as the bachelor only shows glimpses of deep, underlying Physics.</p>
+    </li>
   </ul>
 </div>

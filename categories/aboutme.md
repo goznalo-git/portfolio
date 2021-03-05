@@ -14,11 +14,11 @@ Whatever it is you are looking for here, I am confident you will find it.
 
 # Download my resume
 
-<a href="/files/CV_GCA_data_eng.pdf" target="_blank">Click here to view and download the best resume ever</a>
+<a href="https://goznalo-git.github.io/portfolio/files/CV_GCA_data_eng.pdf" target="_blank">Click here to view and download the best resume ever</a>
 
 In case you're wondering, I designed it with _Overleaf_.
 
-# Chronological achievements  
+# Timeline 
 
 <div id="timeline-content">
 
@@ -40,7 +40,7 @@ In case you're wondering, I designed it with _Overleaf_.
       <h4>Universidad Complutense de Madrid (UCM)</h4>
       <p>Amazed by the Universe and space (cosmology, black holes, etc), I attempted to understand it.</p>  
     </li>
-    <li class="event" data-date="2014-Now">
+    <li class="event" data-date="2014-2020">
       <h3>Joined ASAAF</h3>
       <p>During the second year I joined the astronomical association of the UCM.</p>
       <p>Besides helping with astronomical events, I was offered the chance to give public presentations, taking place during events such as the Madrid Science Week or the Noether Conference cycles:</p>
@@ -56,13 +56,29 @@ In case you're wondering, I designed it with _Overleaf_.
       <h3>Graduated from the B.Sc. in Physics (GPA 7.5)</h3>
       <h4>Universidad Complutense de Madrid (UCM)</h4>
       <p>Specialization in Fundamental Physics</p>
-      <p>Bachelor's Thesis: <em><strong>Numerical Solutions in Classical Field Theories: Vortices, Solitons and Black Holes</strong></em>, directed by Prof. Francisco Navarro (Grade: 9/10).</p>
-      <p>In case you are interested, you can <a href="/files/CV_GCA_data_eng.pdf" target="_blank"> view or download it here</a>.</p>
+      <p>Bachelor's Thesis: <em><strong>Numerical Solutions in Classical Field Theories: Vortices and Solitons</strong></em>, directed by Prof. Francisco Navarro (Grade: 9/10).</p>
+      <p>In case you are interested, you can <a href="https://goznalo-git.github.io/portfolio/files/TFG.pdf" target="_blank"> view or download it here</a>.</p>
     </li>
     <li class="event" data-date="Sep 2017">
       <h3>Enrolled the M.Sc. in Theoretical Physics</h3>
       <h4>Universeit van Amsterdam (UvA)</h4>
       <p>I still had a huge drive to understand the Universe, as the bachelor only shows glimpses of deep, underlying Physics.</p>
+      <p>The program offered by the UvA was highly competitive and interesting, thus positioning it as my first choice for my Master studies.</p>
+    </li>
+    <li class="event" data-date="2017-2019">
+      <h3>Joined NSA</h3>
+      <p>During the second year I joined the astronomical association of the UCM.</p>    
+    </li>
+    <li class="event" data-date="2018-2019">
+      <h3>Joined ASAAF</h3>
+      <p>During the second year I joined the astronomical association of the UCM.</p>      
+    </li>
+    <li class="event" data-date="Aug 2019">
+      <h3>Graduated from the M.Sc. in Theoretical Physics (GPA 8.5)</h3>
+      <h4>Universiteit van Amsterdam</h4>
+      <p>Specialization in High Energy Physics & String Theory</p>
+      <p>Master's Thesis: <em><strong>Wilson Lines in AdS<sub>3</sub>/CFT<sub>2</sub></strong></em>, directed by Prof. Alejandra Castro Anich (Grade: 8/10).</p>
+      <p>In case you are interested, you can <a href="https://goznalo-git.github.io/portfolio/files/TFM.pdf" target="_blank"> view or download it here</a>.</p>
     </li>
   </ul>
 </div>

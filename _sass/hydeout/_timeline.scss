@@ -48,7 +48,9 @@ $font-text: 'Chivo', sans-serif;
     letter-spacing: 1.2px;
     font-weight: 1000;
     font-size: 1.1em;
-    margin:0px}
+    text-decoration: underline;     
+    margin:0px;
+    margin-bottom: 5px}
   
   h4 {
     font-weight: 300;
@@ -58,7 +60,9 @@ $font-text: 'Chivo', sans-serif;
   p {
     font-size: 0.7rem; 
     font-weight: 10;
-    margin:1px}
+    line-height: 23px;
+    margin:1px;
+    margin-bottom: 10px}
 
     &:last-of-type { 
         padding-bottom: 0;

@@ -99,6 +99,24 @@ body {
   }
 }
 
+.container {
+
+  #timeline-content {
+    padding-left: 70px
+  }
+
+  
+
+
+  > * {
+    max-width: 100rem; /* Page width!!! */
+    padding: 0;
+    padding-left: 10px;
+  }
+
+  
+}
+
 /* -----------------------------------------------------------
   Mobile view for home page)
 ----------------------------------------------------------- */

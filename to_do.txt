@@ -6,3 +6,4 @@ Interests
 Projects
 Social networks - where to find me
 add favicons
+mobile version CSS

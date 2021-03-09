@@ -70,11 +70,13 @@ In case you're wondering, I designed it with _Overleaf_.
     </li>
     <li class="event" data-date="2017-2019">
       <h3>Joined NSA</h3>
-      <p>During the second year I joined the astronomical association of the UCM.</p>    
+      <p>Soon after arriving to Amsterdam I became a member of the Natuurwetenschappelijke Studievereniging Amsterdam, a Physics' and Mathematics' student association of the UvA. What's more, I was part of the Master Committee, in charge of creating and managing events aimed at Master-level students.</p>
+      <p>The events included: pub quizzes, movie nights, scientific talks, etc.</p>    
     </li>
     <li class="event" data-date="2018-2019">
       <h3>Joined Pint of Science NL</h3>
-      <p>During the second year I joined the astronomical association of the UCM.</p>      
+      <p>During the second year of the Master I found out about the Pint of Science non-profit organization, which happened to have just opened an Amsterdam division. This organization intends to explain scientific topics to people through informal talks at bars, where atendees are given a beer upon entring.</p>
+      <p>I was in charge of organizing the events of the 2019 festival (taking place every year, in May, all over the world), in particular I organized and introduced the speakers of the event ``Fundamentals of Antibiotic Resistance''.</p>
     </li>
     <li class="event" data-date="Aug 2019">
       <h3>M.Sc. in Theoretical Physics (GPA 8.5)</h3>
@@ -86,7 +88,12 @@ In case you're wondering, I designed it with _Overleaf_.
     <li class="event" data-date="Jan 2020">
       <h3>Began working as a programmer</h3>
       <h4>Centro de Computación Científica, Universidad Autónoma de Madrid (CCC-UAM)</h4>
-      <p>During the second year I joined the astronomical association of the UCM.</p>      
+      <p>Upon finishing my master studies, I craved a change in my career. After a brief hiatus, I got a job as a programmer in the Center for Scientific Computing of the UAM. There I developed my scripting skills (in bash/Linux and Python) further than ever before, and I attained a huge interest for Linux and open source in general.</p>      
+    </li>
+    <li class="event" data-date="Jun 2020">
+      <h3>Deep Learning Specialization via Coursera</h3>
+      <p>During the COVID-19 pandemic, my interest for data science, and AI in particular, grew exponentially. It was for this reason that I decided to take a series of excellent courses provided by Coursera and deeplearning.ai, which taught me the fundamentals of Deep Learning (from basic Neural Networks to Convolutional or Recurrent ones).</p>   
+      <p>In case you're interested, </p>  
     </li>
     <li class="event" data-date="Feb 2021">
       <h3>Finished working at the CCC-UAM</h3>     
@@ -94,7 +101,7 @@ In case you're wondering, I designed it with _Overleaf_.
     <li class="event" data-date="Mar 2021">
       <h3>Began working as an analyst</h3>
       <h4>SDG group</h4>
-      <p>During the second year I joined the astronomical association of the UCM.</p>      
+      <p>One year after joining the CCC-UAM, I .</p>      
     </li>
   </ul>
 </div>

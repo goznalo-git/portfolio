@@ -9,12 +9,12 @@ In this page I will showcase a couple of my GitHub projects, briefly explaining 
 <div>
     <ul class="thumbnail_ul">
         <li class="thumbnail_li">
-            <img src='/imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
+            <img src='https://github.com/goznalo-git/portfolio/blob/main/imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
             <h3>Music name generator</h3>
             <p>Hola que tal</p>
         </li>
         <li class="thumbnail_li">
-            <img src='/imgs/SongOrganizer.jpg' alt="SongOrganizer" width="100px" height="100px">
+            <img src='{{ site.url }}/imgs/SongOrganizer.jpg' alt="SongOrganizer" width="100px" height="100px">
             <h3>Song Organizer</h3>
             <p>Hola que tal</p>
         </li>

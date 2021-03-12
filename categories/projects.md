@@ -10,7 +10,7 @@ In this page I will showcase a couple of my GitHub projects, briefly explaining 
     <ul class="thumbnail_ul">
         <a href='https://github.com/goznalo-git/musicnames-RNN-keras'>
         <li  class="thumbnail_li">
-            <img src='https://github.com/goznalo-git/portfolio/blob/main/imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
+            <img src='/imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
              <div style="width: 100%; ">
                 <div style="width: 600px; float: left;"> <h3>Music name generator</h3> 
                 <p>This project happened</p></div>

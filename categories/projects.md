@@ -10,7 +10,7 @@ In this page I will showcase a couple of my GitHub projects, briefly explaining 
     <ul class="thumbnail_ul">
         <a href='https://github.com/goznalo-git/musicnames-RNN-keras' >
         <li  class="thumbnail_li">
-            <img src='imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
+            <img src='../imgs/MusicNames.jpg' alt="MusicNames" width="100px" height="100px">
              <div style="width: 100%; ">
                 <div style="width: 600px; float: left;"> <h3>Music name generator</h3> 
                 <p>This project happened</p></div>
@@ -20,7 +20,7 @@ In this page I will showcase a couple of my GitHub projects, briefly explaining 
         </a>
         <a href='https://github.com/goznalo-git/PhysicsSimulations'>
         <li class="thumbnail_li">
-            <img src='imgs/Simulations.jpg' alt="Simulations" width="100px" height="100px">
+            <img src='../imgs/Simulations.jpg' alt="Simulations" width="100px" height="100px">
              <div style="width: 100%; ">
                 <div style="width: 600px; float: left;"> <h3>Physics simulations</h3> 
                 <p>I carried out this project long time ago, for many reasons, including learning about differential equations solvers in Python, and my personal interest and curiosity.</p></div>

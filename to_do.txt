@@ -1,9 +1,10 @@
+#Content
 Introductory page
 README, acknowledgements, etc
-Curriculum - upload pdf
-Curriculum - chronological and in detail
 Interests
-Projects
 Social networks - where to find me
+
+#aesthetics
 add favicons
+white to transparent thumbnail
 mobile version CSS

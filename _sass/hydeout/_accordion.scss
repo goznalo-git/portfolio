@@ -13,6 +13,8 @@ $border-color: #e0e0e0;
   background: #fff;
   //width: 600px;
   border: 1px solid $border-color;
+
+  list-style-type: none;
 }
 
 .accordion-item {
@@ -26,7 +28,7 @@ $border-color: #e0e0e0;
 }
 
 .accordion-label {
-  padding: 20px 0 20px 30px;
+  padding: 13px 0 20px 30px;
   width: 100%;
   display: block;
   font-size: 18px;

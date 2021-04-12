@@ -6,5 +6,6 @@ Social networks - where to find me
 
 #aesthetics
 add favicons
-white to transparent thumbnail
+white to transparent thumbnails
+round corners thumbnails
 mobile version CSS

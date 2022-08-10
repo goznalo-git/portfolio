@@ -65,6 +65,7 @@ body {
   }
 }
 
+
 /* -----------------------------------------------------------
   Mobile view
 ----------------------------------------------------------- */
@@ -102,7 +103,7 @@ body {
 .container {
 
   #timeline-content {
-    padding-left: 70px
+    padding-left: 100px
   }
 
   
@@ -248,7 +249,7 @@ body {
     }
 
     > * {
-      max-width: 50rem; /* Page width!!! */
+      max-width: 100rem; /* Page width!!! */
       padding: 0;
     }
   }

@@ -14,7 +14,7 @@ Whatever it is you are looking for here, I am confident you will find it.
 
 ## Download my resume
 
-<a href="https://goznalo-git.github.io/portfolio/files/CV_GCA_data_eng.pdf" target="_blank">Click here to view and download the best resume ever</a>
+<a href="https://goznalo-git.github.io/portfolio/files/CV_GCA_data_eng.pdf" target="_blank">Click here to view and download the best resume ever (to be updated)</a>
 
 In case you're wondering, I designed it with _Overleaf_.
 

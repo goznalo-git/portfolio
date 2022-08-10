@@ -4,7 +4,7 @@ title: Talks
 sidebar_link: true
 ---
 
-> _"If you're not slightly embarrassed to sing the lyrics, you're probably not writing a good song"_ - Isaac Brock.
+> _"If you're not slightly embarrassed to sing the lyrics, you're probably not writing a good song"_ - Isaac Brock, frontman of _Modest Mouse_.
 
 I would say the same about giving talks. Although the opposite is generally not true...
 

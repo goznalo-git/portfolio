@@ -3,9 +3,10 @@ Introductory page
 README, acknowledgements, etc
 Interests
 Social networks - where to find me
+Teaching, research
 
 #aesthetics
 add favicons
-white to transparent thumbnails
-round corners thumbnails
-mobile version CSS
+mobile version CSS fix EVERYTHING
+standard version -> full width of screen
+add pdf CELANICA talk

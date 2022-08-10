@@ -8,7 +8,3 @@ In this page I will showcase a couple of my GitHub projects, briefly explaining 
 
 
 {% include projects.html %}
-
-{% comment %}
-{% include projects-thumbnails.html %}
-{% endcomment %}

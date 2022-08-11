@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: About me
 sidebar_link: true
 ---
 
@@ -9,8 +9,11 @@ sidebar_link: true
 
 As you arrived here, I would say it is safe to assume you are interested in my life, for one reason or another. I will satisfy your curiosity, by either of two means: if you are interested in a broad overview of my academic and professional career, you can simply download my CV from the links below, otherwise I have prepared a detailed, chronological version of my resume. 
 
-Whatever it is you are looking for here, I am confident you will find it. 
+This is me, in a nutshell.
 
+{% comment %}
+Whatever it is you are looking for here, I am confident you will find it. 
+{% endcomment %}
 
 ## Download my resume
 

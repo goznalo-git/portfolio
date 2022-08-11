@@ -25,4 +25,28 @@
         color: #515151; /* Same as the rest */
     }
 
+    p#mobile {
+        display: none;
+    }
+
+    /* Mobile section, ideas taken from _responsivetable.scss */
+    @media all and (max-width: 767px) {
+        
+        max-width: 100px;
+        font-size: 12px;
+
+        .table-header {
+            font-size: 12px;
+        }
+
+        p#mobile {
+            display: contents;
+        }
+
+        p#desktop {
+            display: none;
+        }
+
+    }
+
 }

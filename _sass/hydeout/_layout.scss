@@ -102,19 +102,17 @@ body {
 
 .container {
 
+  color: $body-color;
+
   #timeline-content {
     padding-left: 100px
   }
-
-  
-
 
   > * {
     max-width: 100rem; /* Page width!!! */
     padding: 0;
     padding-left: 10px;
   }
-
   
 }
 

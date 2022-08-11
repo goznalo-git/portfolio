@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things I am interested in
+title: Random things I find interesting
 sidebar_link: true
 ---
 
@@ -10,11 +10,4 @@ I consider myself a person with plenty different interests. That does not mean t
 
 Here there is a, rather small, list of things I spend most of my time at nowadays.
 
-<!--
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
--->
-
-{% include accordion.html%}
+{% include 05-accordion.html%}

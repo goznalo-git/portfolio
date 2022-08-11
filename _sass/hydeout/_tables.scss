@@ -1,17 +1,23 @@
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 0.9em;
+    //font-size: 0.9em;
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 
-    img { border-radius: 5px }
-
-    thead th {
-        font-size: 2em;
-        font-weight: bold;
+    .table-header {
+        background-color: #b6c6c7;
+        font-style: bold;
+        font-weight: 900;
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        font-family: "Times New Roman";
+        height: 3em;
     }
+
+    img { border-radius: 5px }
 
     td#keywords { font-style: italic; }
     

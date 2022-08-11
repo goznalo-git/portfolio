@@ -18,6 +18,6 @@ Whatever it is you are looking for here, I am confident you will find it.
 
 In case you're wondering, I designed it with _Overleaf_.
 
-## Timeline 
+## Timeline, explained
 
-{% include timeline.html %}
+{% include 01-timeline.html %}

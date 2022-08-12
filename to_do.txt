@@ -3,10 +3,7 @@ Introductory page
 README, acknowledgements, etc
 Interests
 Social networks - where to find me
-Teaching, research
+Teaching - Cosmology and Linux lecture notes
 
 #aesthetics
 add favicons
-mobile version CSS fix EVERYTHING
-standard version -> full width of screen
-add pdf CELANICA talk

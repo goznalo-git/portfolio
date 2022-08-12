@@ -4,7 +4,9 @@ title: Outreach
 sidebar_link: true
 ---
 
-<p></p>
+> _"We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology."_ - Carl Sagan
+
+
 
 Science and I crossed paths early in my life. My grandma had a lung-related illness, hence I decided to be a doctor, to cure her. I was around 5, and began to read books and watch films about the human body. In secondary school, however, science became secondary in my life. Or rather, I didn't give it much though. In fact, my grandma had already left us years prior, and I began to understand I did not really like all that medical stuff after all. To this day, I feel dizzy when I see guts and organs in movies.
 

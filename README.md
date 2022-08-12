@@ -23,3 +23,8 @@ Jekyll is built with the Ruby language. While I know nothing about that language
 After cloning this repository, navigate to the folder, and run `bundle install`. AFAIK this reads the content of the `Gemfile` file (containing gems, which are like libraries, and remote sources from which gems can be downloaded), and installs all gems (dependencies). For more information, check out [https://jekyllrb.com/docs/ruby-101/](https://jekyllrb.com/docs/ruby-101/). If there are no errors, we can test this repo locally by running `bundle exec jekyll serve` and navigating to the site shown afterwards (usually something like [http://localhost:4000/portfolio](http://localhost:4000/portfolio).
 
 I have happened to come across an error during the installation: the gem 'http_parser.rb' failed to install its version 0.6.0. This is a problem of that version, and installing a higher version (e.g. `bundle install http_parser.rb --version 0.6.1`) should suffice.
+
+
+## Some lessons learned
+
+While I have more or less achieved the aesthetic I was looking for when I started this project, in hindsight it might have been a better idea building everything from scratch rather than downloading a template to mess around with it. Yes, it saved me a lot of time regarding sidebar, header, footer, directory structure, etc. But I have spent quite a lot of time getting to know it too. My fighting with CSS has taken more time than what I'm willing to admit. 

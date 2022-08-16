@@ -35,7 +35,7 @@ Besides networks, there are many systems whose dynamics are governed by non-line
 
 ### (Theoretical) Physics
 
-One does not forget its beginnings. I still appreciate and enjoy reading about General Relativity (black holes, inflation, etc) and String Theory (in particular, about the AdS/CFT correspondence). I have mixed feelings about the latter, and I highly doubt I'll ever go back. Regarding the former, I don't think it is that far apart as of now. In the end, GR is just differential geometry with a physics dress. And, while the discrete nature of graphs seems to be opposite to the infinitesimal nature of differential stuff, weirder connections have been established in both Maths and Physics. In fact I've already seen a couple of interesting papers in that direction.
+One does not forget its beginnings. I still appreciate and enjoy reading about General Relativity (black holes, inflation, etc) and String Theory (in particular, about the AdS/CFT correspondence). I have mixed feelings about the latter, I highly doubt I'll ever go back. Regarding the former, I don't think it is that far apart as of now. In the end, GR is just differential geometry with a physics dress. And, while the discrete nature of graphs seems to be opposite to the infinitesimal nature of differential stuff, weirder connections have been established in both Maths and Physics. In fact I've already seen a couple of interesting papers in that direction.
 
 Another area of Physics which I was really fond of was Classical Mechanics, in particular everything related to analytical mechanics. The good news about this is that it does not lie far from the realm of Complex Systems: usually, all the dynamics invoved are inferred from a mechanical system.
 

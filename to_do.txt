@@ -1,9 +1,9 @@
 #Content
 Introductory page
-README, acknowledgements, etc
 Interests
 Social networks - where to find me
-Teaching - Cosmology and Linux lecture notes
+Teaching
 
 #aesthetics
-add favicons
+change favicons
+add some emojis

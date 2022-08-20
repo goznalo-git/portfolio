@@ -6,4 +6,5 @@ Teaching
 
 #aesthetics
 change favicons
-add some emojis
+add some more emojis
+optional: change font of headers

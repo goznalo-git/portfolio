@@ -1,0 +1,46 @@
+.linkstable {
+    
+    line-height: 2;
+
+    ul {
+    list-style-type: none;
+    width: 500px;
+    padding-left: 1rem;
+    }
+
+    img {
+    width: 10rem;
+    }
+
+    h3 {
+    font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+    }
+
+    li img {
+    float: left;
+    margin: 0 50px 0 0;
+    
+    }
+
+    li img#orcid{
+        padding-top: 0.04in;
+    }
+
+    li img#linkedin{
+        padding-top: 0.15in;
+    }
+
+    li p {
+    font: 200 12px/1.5 Georgia, Times New Roman, serif;
+    }
+
+    li {
+    padding: 10px;
+    overflow: auto;
+    }
+
+    li:hover {
+    background: #eee;
+    cursor: pointer;
+    }
+}

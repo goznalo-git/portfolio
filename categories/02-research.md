@@ -20,7 +20,9 @@ There are some specially intriguing, rather new variants of networks which I hav
 - _Multilayer networks_: these are networks whose interacions fall into different categories, and thus treating those interactions as equal is missing the whole picture. For instance, the connections between a set of individuals are distinct depending of whether individuals are relatives, aquaintances, friends or coworkers.  
 - _Higher order networks_: these networks arise from lifting the restriction that interactions be pairwise. Consider, for example, three people writing a paper together. They did not write it "pairwise together", rather, the three of them should be considered part of the same interaction. This opens a vast world of possibilities, however, the technical difficulties encountered along the way are equally vast.
 
+<br>
 <div style='border-top: 2px dashed lightgrey; width: 100%;'></div>
+<br>
 
 ## Other research interests
 
@@ -52,7 +54,9 @@ Another subject which seems to be on the rise these days is that of Graph Neural
 
 Something else I think is really interesting but perhaps falling far from my reach are Cellular Automata, and in particular the Game of Life. I find the idea of deterministic systems leading to unpredictable behavior fascinating. In the case of the Conway's Game of Life this is the case, using the simplest set of sensible rules one can think of.
 
+<br>
 <div style='border-top: 2px dashed lightgrey; width: 100%;'></div>
+<br>
 
 
 {% comment %}
@@ -66,6 +70,8 @@ Stochastic diff. eqs
 ## Articles 📝
 
 {% include 02-papers.html %}
+
+<br>
 
 ## Talks 🙉
 

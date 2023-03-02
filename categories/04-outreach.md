@@ -8,7 +8,9 @@ sidebar_link: true
 
 I am a firm believer that scientific outreach is of the uttermost importance, both for researchers (as their contributions can be highlighted and made public) and for the general public (as there is an ever-growing demand for scientific talks, conferences and events bridging the gap between science and society). I have taken part in activities related to it every time I have had the chance, and I still do. Here is a summary of them.
 
+<br>
 <div style='border-top: 2px dashed lightgrey; width: 100%;'></div>
+<br>
 
 ## Outreach groups I have been part of
 
@@ -16,7 +18,9 @@ I am a firm believer that scientific outreach is of the uttermost importance, bo
 - <strong>Noether</strong> (<em>2014-2019</em>): while technically an part of ASAAF, this was a Theoretical Physics-focused subgroup. We organized activities such as programming (Mathematica, Python, LaTeX) workshops and a yearly conference cycle, named after Emmy Noether.
 - <strong>Pint of Science NL</strong> (<em>2018-2019</em>): during my stay in the Netherlands I reached out to the Pint of Science Netherlands organization (a non-profit organization known for organizing outreach talks at bars), to help organize the 2019 activies. It was a nice experience, and I even had the opportunity to host an evening on antibiotic resistance, presenting the speakers and organizing quizzes in between.
 
+<br>
 <div style='border-top: 2px dashed lightgrey; width: 100%;'></div>
+<br>
 
 ## Talks I have given
 

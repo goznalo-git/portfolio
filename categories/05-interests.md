@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random things I find interesting
+title: Random things & interests
 sidebar_link: true
 ---
 

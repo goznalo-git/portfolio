@@ -220,7 +220,7 @@ body {
     color: $body-color;
     min-height: 100vh;
     padding:
-      $section-spacing / 2   /* Distance to top */ 
+      calc($section-spacing / 2)   /* Distance to top */ 
       $section-spacing * 2
       0;
 

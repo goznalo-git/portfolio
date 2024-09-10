@@ -9,16 +9,17 @@ sidebar_link: true
 
 I would say the same applies to coding projects. Although the opposite is generally not true...
 
-## Fun projects I have carried out in my free time
+## Open, reproducible science
+
+I am committed to open science research, I think it is the correct way to go. I make code available whenever I can.
+
+{% include 06-science-table.html %}
+
+## Some projects I have carried out in my free time
 
 Here I will showcase some of my GitHub projects, briefly explaining what I attempted in each of them and why. 
 
 {% include 06-projects-table.html %}
 
 
-## Open, reproducible science
-
-I am committed to open science research, I think it is the correct way to go. I make code available whenever I can.
-
-{% include 06-science-table.html %}
 

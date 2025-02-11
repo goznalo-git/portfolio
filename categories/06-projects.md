@@ -9,11 +9,16 @@ sidebar_link: true
 
 I would say the same applies to coding projects. Although the opposite is generally not true...
 
+<br>
+
 ## Open, reproducible science
 
 I am committed to open science research, I think it is the correct way to go. I make code available whenever I can.
 
 {% include 06-science-table.html %}
+
+
+<br>
 
 ## Some projects I have carried out in my free time
 

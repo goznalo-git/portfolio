@@ -15,13 +15,13 @@ As you arrived here, I would say it is safe to assume you are interested in my l
 
 {% comment %}
 Whatever it is you are looking for here, I am confident you will find it. 
-{% endcomment %}
 
 ## Download my resume
 
 <a href="https://goznalo-git.github.io/portfolio/files/CV_GCA_data_eng.pdf" target="_blank">Click here to view and download the best resume ever (very outdated, I have to upload a new version)</a>
 
 In case you're wondering, I designed it with _Overleaf_.
+{% endcomment %}
 
 ## Timeline, explained
 

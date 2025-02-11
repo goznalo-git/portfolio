@@ -8,12 +8,14 @@ sidebar_link: true
 
 I have met some incredibly inspiring professors over the years, and I try to live up to their standards (or at least try to).
 
+<br>
+
 ## Courses taught
 
 {% include 03-courses.html %}
 
 
-
+<br>
 
 ## Random materials I have created over the years
 

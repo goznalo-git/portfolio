@@ -65,6 +65,7 @@ Stochastic diff. eqs
 
 {% endcomment %}
 
+<br>
 
 
 ## Articles 📝
@@ -76,3 +77,9 @@ Stochastic diff. eqs
 ## Talks 🙉
 
 {% include 02-talks.html %}
+
+<br>
+
+## Posters 🖼
+
+{% include 02-posters.html %}

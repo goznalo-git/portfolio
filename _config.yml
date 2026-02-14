@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Gonzalo Contreras Aso
-#tagline:         My Gitfolio
-description:      'My Gitfolio'
+#tagline:         Personal website
+description:      'Personal website'
 url:              https://goznalo-git.github.io/
 baseurl:          '/portfolio/'
                   # the optional subpath of your site, e.g. "/blog"
